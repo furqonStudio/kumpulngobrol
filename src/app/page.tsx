@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Link from 'next/link'
 // font-[family-name:var(--font-geist-sans)]
 export default function Home() {
